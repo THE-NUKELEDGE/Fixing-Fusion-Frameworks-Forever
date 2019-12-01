@@ -88,3 +88,9 @@ LINE 86 // MaxYSpeed; Default: 10
 10
 LINE 88 // Yacceleration; Default: 0.21875
 0.21875
+LINE 90 // LandingConversionFactor; Default: 1
+1
+LINE 92 // SlopeAccelerationFactor; Default: 0.203125
+0.203125
+LINE 94 // Deceleration; Default: 0.04678
+0.04678
