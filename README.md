@@ -5,7 +5,6 @@
 1. Physics edited by external file
 2. SBFS Audio System instated
 3. volPROFILER code analyzing group execution in μseconds
+4. Switching between online and local file editing for physics
 
 
-# Current broken features:
-1. Switching between online and local file editing for physics
