@@ -64,3 +64,7 @@ LINE 62 // FlyMaxXSpeed; Default: 2
 2
 LINE 64 // FlyTimerLimit; Default: 480
 480
+KNUCKLES CHANGES
+BUFFER LINE TO RETURN TO PATTERN
+LINE 68 // JumpStrength; Default: -6.3
+-6.3
