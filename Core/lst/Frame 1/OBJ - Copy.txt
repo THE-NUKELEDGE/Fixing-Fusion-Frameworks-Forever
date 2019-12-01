@@ -1,0 +1,3 @@
+[Player.ActionValuesB]
+// Set AirDrag
+0.96875

@@ -1,0 +1,3 @@
+A comment (//) signifies what a function below said comment will change in the code.
+
+// = comment
