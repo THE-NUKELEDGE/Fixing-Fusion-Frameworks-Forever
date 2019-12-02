@@ -1,12 +1,9 @@
 LINE 0 //[Player.ActionValuesB]
-LINE 124 // Set AirDrag; Default: 0.96875
+LINE 1 // Set AirDrag; Default: 0.96875
 0.96875
 LINE 3 [Player.MovementValues]
 LINE 4 // MaxXSpeed; Default: 16
 32
-<<<<<<< HEAD
-LINE 6 // T
-=======
 LINE 6 // TopXSpeed; Default: 6.8
 6.8
 LINE 8 // XAcceleration; Default: 0.05
@@ -175,4 +172,3 @@ LINE 170 // FlyMaxXSpeed; Default: 1
 1
 LINE 172 // FlyTimerLimit; Default: 480
 480
->>>>>>> 56472cda73c2c52a76855ac2685667f3b6a98438
