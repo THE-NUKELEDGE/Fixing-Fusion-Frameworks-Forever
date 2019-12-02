@@ -1,5 +1,5 @@
 LINE 0 //[Player.ActionValuesB]
-LINE 124 // Set AirDrag; Default: 0.96875
+LINE 1 // Set AirDrag; Default: 0.96875
 0.96875
 LINE 3 [Player.MovementValues]
 LINE 4 // MaxXSpeed; Default: 16
