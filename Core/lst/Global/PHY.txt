@@ -171,4 +171,4 @@ BUFFER LINE TO RETURN TO PATTERN
 LINE 170 // FlyMaxXSpeed; Default: 1
 1
 LINE 172 // FlyTimerLimit; Default: 480
-48024
+480
