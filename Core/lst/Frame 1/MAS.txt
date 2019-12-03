@@ -1,3 +1,0 @@
-[Master.Level]
-// Chooses the water level in the stage.
-0
