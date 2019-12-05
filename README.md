@@ -5,8 +5,10 @@ This branch implements groundwork for the Core framework.
 # This framework currently has the following features:
 1. Physics edited by external file
 2. SBFS Audio System instated
-3. volPROFILER code analyzing group execution in μseconds
+3. volPROFILER code analyzing group execution in μseconds (Press V to activate)
 4. Switching between online and local file editing for physics
+5. Developer Tools to streamline creation, including:
+Synthesizer, Updater, Game Launcher 
 
 # This framework will has the following features in the future:
 1. .VGM and other music format compatibility using Onu Audio
