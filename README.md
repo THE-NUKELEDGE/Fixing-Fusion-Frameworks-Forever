@@ -1,9 +1,9 @@
 # Fixing Fusion Frameworks Forever
  Fixing Fusion Frameworks Forever is dedicated to streamlining Clickteam Fusion Sonic frameworks by externally editing various files to improve ease of access within various Sonic frameworks.
-This branch implements groundwork for the Core framework.
+This branch implements groundwork for the Chaos framework.
 
 # This framework currently has the following features:
-1. Physics edited by external file
+1. Physics edited by external file using Chaos values
 2. SBFS Audio System instated
 3. volPROFILER code analyzing group execution in μseconds (Press V to activate)
 4. Switching between online and local file editing for physics
@@ -17,7 +17,7 @@ Synthesizer, Updater, Game Launcher
 4. Include documentation
 
 
-Current version: 1.0.0b-CDF
+Current version: 1.0.0b-ChDF
 
 How to tell version numbers for FFFF:
 Format: (major release).(minor release).(bug fix)-(framework being modified)
