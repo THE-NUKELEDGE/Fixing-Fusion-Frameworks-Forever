@@ -7,9 +7,9 @@ LINE 4 // MaxXSpeed; Default: 16
 LINE 6 // TopXSpeed; Default: 6.8
 6.8
 LINE 8 // XAcceleration; Default: 0.05
-0.05
+0.046875
 LINE 10 // SlopeAccelerationFactor; Default: 0.3
-0.3	
+0.315
 LINE 12 // SlopeDecelerationFactor; Default: 0.3
 0.3	
 LINE 14 // MaxYSpeed; Default: 16
