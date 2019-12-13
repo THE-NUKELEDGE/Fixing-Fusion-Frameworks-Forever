@@ -9,6 +9,7 @@ This branch implements groundwork for the Core framework, Classic Edition.
 4. Switching between online and local file editing for physics
 5. Developer Tools to streamline creation, including:
 Synthesizer, Updater, Game Launcher 
+6. Classic aspects of the Sonic Trilogy, mostly Sonic 3
 
 # This framework will has the following features in the future:
 1. .VGM and other music format compatibility using Onu Audio
