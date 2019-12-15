@@ -18,7 +18,7 @@ Synthesizer, Updater, Game Launcher
 4. Include documentation
 
 
-Current version: 1.0.0b-CE
+Current version: 1.1.0b-CE
 
 How to tell version numbers for FFFF:
 Format: (major release).(minor release).(bug fix)-(framework being modified)
